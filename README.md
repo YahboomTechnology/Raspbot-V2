@@ -1,4 +1,4 @@
-# Raspbot V2 AI Vision Robot Car
+# Raspbot V2 AI Large Model Robot Car for Raspberry Pi 5
 ![](https://github.com/YahboomTechnology/Raspbot-V2/blob/main/Raspbot_V2_Yahboom.jpg)
 
 # Introduction
@@ -12,6 +12,14 @@ RASPBOT-V2 is an AI vision robot car with a metal body bracket. It is equipped w
 * Support multiple accessories: Multifunctional robot drive expansion board, supports connecting 4-channel tracking sensor, ultrasonic sensor, OLED display, RGB light bar, users can use the car in various scenarios.
 
 * Raspberry Pi 5 as main control: Combined with ROS2-Humble operating system and Python programming environment. The simple programming interface and rich sensor modules make Raspbot-V2 suitable for ROS beginners to quickly get started.
+
+For Superior Version
+
+1. Built-in speech recognition and natural language processing, combined with speakers, enable easy voice commands and question-and-answer interactions.
+
+2. Integrating multimodal interaction capabilities, including text, image, and voice, it can adjust actions in real time based on environmental changes, supporting free conversation interruptions and dynamic feedback reasoning.
+
+3. Integrating a large model and an extensible RAG knowledge system enhances task awareness and complex problem-solving capabilities.
 
 # Required Best Buy Links
 
